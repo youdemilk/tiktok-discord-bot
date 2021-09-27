@@ -1,2 +1,2 @@
-# tiktok-discord-downloader
-Tik Tok video download bot for Discord server
+# tiktok-discord-bot
+Tiktok video downloader bot for Discord server
